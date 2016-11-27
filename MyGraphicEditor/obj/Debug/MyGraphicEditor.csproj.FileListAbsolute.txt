@@ -1,0 +1,57 @@
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe.config
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.pdb
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csprojResolveAssemblyReference.cache
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Form1.resources
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Properties.Resources.resources
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csproj.GenerateResource.Cache
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.exe
+c:\users\макаренко дмитрии\documents\visual studio 2015\Projects\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.pdb
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe.config
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.exe
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.pdb
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.pdb
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Properties.Resources.resources
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csproj.GenerateResource.Cache
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe.config
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.exe
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.pdb
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.pdb
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csprojResolveAssemblyReference.cache
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Form1.resources
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Properties.Resources.resources
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csproj.GenerateResource.Cache
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\Новая папка\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe.config
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\Новая папка\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.exe
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor-EDITED\Новая папка\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.pdb
+D:\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe.config
+D:\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.exe
+D:\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.pdb
+D:\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe
+D:\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.pdb
+D:\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csprojResolveAssemblyReference.cache
+D:\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Form1.resources
+D:\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Properties.Resources.resources
+D:\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csproj.GenerateResource.Cache
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe.config
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.exe
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.pdb
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.pdb
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csprojResolveAssemblyReference.cache
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Form1.resources
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Properties.Resources.resources
+C:\Users\Макаренко Дмитрии\Desktop\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\MyGraphicEditor\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.MainForm.resources
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe.config
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.exe
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.pdb
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.exe
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\bin\Debug\MyGraphicEditor.pdb
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csprojResolveAssemblyReference.cache
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.MainForm.resources
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.Properties.Resources.resources
+C:\Users\Макаренко Дмитрии\Desktop\Новая папка\MyGraphicEditor\MyGraphicEditor\obj\Debug\MyGraphicEditor.csproj.GenerateResource.Cache
